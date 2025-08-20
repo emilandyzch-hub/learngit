@@ -16,3 +16,5 @@ git checkout -- readme.txt
 git reset HEAD readme.txt
 rm test.txt
 git rm test.txt
+
+Creating a new branch is quick.
